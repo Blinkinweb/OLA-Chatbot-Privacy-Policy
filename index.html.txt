@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OLA Messenger Bot Privacy Policy</title>
+
+<style>
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background:#f7f7f7;
+    margin:0;
+    padding:0;
+    line-height:1.6;
+}
+
+.container{
+    max-width:900px;
+    margin:40px auto;
+    background:white;
+    padding:40px;
+    border-radius:10px;
+    box-shadow:0 5px 20px rgba(0,0,0,0.08);
+}
+
+h1{
+    text-align:center;
+    margin-bottom:10px;
+}
+
+.updated{
+    text-align:center;
+    color:#666;
+    margin-bottom:40px;
+}
+
+h2{
+    margin-top:35px;
+    color:#333;
+}
+
+ul{
+    padding-left:20px;
+}
+
+footer{
+    margin-top:40px;
+    text-align:center;
+    color:#777;
+    font-size:14px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>OLA Messenger Bot Privacy Policy</h1>
+<p class="updated">Last Updated: March 2026</p>
+
+<h2>1. Introduction</h2>
+<p>
+OLA Messenger Bot ("the Service") is a Facebook Messenger automation system that allows users to interact with automated tasks, account features, and reward systems through the OLA Facebook Page.
+</p>
+
+<p>
+This Privacy Policy explains what information may be collected when users interact with the chatbot and how that information is used and protected.
+</p>
+
+<p>
+By using this Messenger bot, you agree to the practices described in this policy.
+</p>
+
+<h2>2. Information We Collect</h2>
+<p>
+When users interact with the Messenger bot, the system may collect limited information required to operate the service.
+</p>
+
+<ul>
+<li>Facebook Page-Scoped ID (PSID)</li>
+<li>User interaction data (messages, quick replies, button clicks)</li>
+<li>Account activity data (task progress, balances, rewards)</li>
+<li>Activation code usage associated with the account</li>
+</ul>
+
+<p>
+The service does <strong>not collect sensitive personal information</strong> such as:
+</p>
+
+<ul>
+<li>Passwords</li>
+<li>Payment information</li>
+<li>Government identification</li>
+<li>Email addresses</li>
+<li>Phone numbers</li>
+</ul>
+
+<h2>3. How We Use the Information</h2>
+<p>
+The collected information is used strictly to operate the chatbot service and its core functionality.
+</p>
+
+<ul>
+<li>Identifying users interacting with the system</li>
+<li>Maintaining account progress and balances</li>
+<li>Processing tasks and reward logic</li>
+<li>Preventing spam or misuse of the service</li>
+<li>Providing technical support and troubleshooting</li>
+</ul>
+
+<h2>4. Data Storage and Security</h2>
+<p>
+Some operational data may be stored in a secure database in order to maintain account progress, balances, and system integrity.
+</p>
+
+<p>
+Reasonable technical measures are implemented to protect stored data from unauthorized access or misuse.
+</p>
+
+<h2>5. Data Sharing</h2>
+<p>
+The service does <strong>not sell, rent, or share user data with third parties</strong>.
+</p>
+
+<p>
+Information collected through the Messenger bot is used solely to provide the functionality of the service.
+</p>
+
+<h2>6. Data Retention</h2>
+<p>
+User data is retained only as long as necessary to operate the service and maintain account functionality.
+</p>
+
+<p>
+Inactive or deleted accounts may have their data removed periodically.
+</p>
+
+<h2>7. Data Deletion Requests</h2>
+<p>
+Users may request deletion of their data at any time.
+</p>
+
+<p>
+To request deletion, send the message:
+</p>
+
+<p><strong>DELETE ACCOUNT</strong></p>
+
+<p>
+to the Messenger bot associated with this service.
+</p>
+
+<p>
+Once received, the request will be processed and the associated data will be removed from the system within a reasonable timeframe.
+</p>
+
+<h2>8. Facebook Platform Compliance</h2>
+<p>
+This service operates through the Facebook Messenger Platform and complies with Facebook Platform Policies.
+</p>
+
+<p>
+Information exchanged through Messenger interactions may also be subject to Facebook's own privacy policies.
+</p>
+
+<p>
+You can review Facebook’s privacy policy here:
+</p>
+
+<p>
+<a href="https://www.facebook.com/privacy/policy/" target="_blank">
+https://www.facebook.com/privacy/policy/
+</a>
+</p>
+
+<h2>9. Policy Updates</h2>
+<p>
+This Privacy Policy may be updated periodically to reflect improvements or operational changes to the service.
+</p>
+
+<p>
+Updates will be published on this page with a revised "Last Updated" date.
+</p>
+
+<h2>10. Contact</h2>
+<p>
+For questions regarding this Privacy Policy or data requests, please contact the administrator through the official Facebook Page associated with this Messenger bot.
+</p>
+
+<footer>
+OLA Messenger Bot Privacy Policy
+</footer>
+
+</div>
+
+</body>
+</html>
